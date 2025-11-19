@@ -1,1 +1,1 @@
-# ex-config
+# ext-config
